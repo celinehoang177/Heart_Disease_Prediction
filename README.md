@@ -39,7 +39,7 @@ Figure 3 illustrates the comparison of resting blood pressure between males and 
 Figure 4 presents a comparison of age and the maximum heart rate achieved, categorized by gender.
 
 ### Figure 5: Gender Comparison of Cluster Index and Max Heart Rate
-<img width="1567" alt="Screenshot 2023-10-29 at 23 56 39" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/52bdcd6b-dcb3-4e5d-9f2d-1aaa3267ff91">
+<img width="1567" alt="Screenshot 2023-10-29 at 23 56 39" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/f3472dc2-828f-480d-afe0-428af101c139">
 
 Figure 5 illustrates a comparison of cluster index and the maximum heart rate achieved, categorized by gender.
 
