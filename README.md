@@ -20,22 +20,27 @@ In this research project, I employed various methods and materials to investigat
 ## Results
 ### Figure 1: Prediction of Cholesterol Levels by Age
 <img width="633" alt="Screenshot 2023-10-29 at 23 54 18" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/6a00796b-dd7b-47dd-9600-d01eff4109d4">
+
 Figure 1 displays the prediction of cholesterol levels in blood using age as a feature. It reveals a weak correlation between age and cholesterol levels, as evidenced by the model's relatively high error rate.
 
 ### Figure 2: Heart Disease Distribution by Chest Pain Types
 <img width="425" alt="Screenshot 2023-10-29 at 23 54 59" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/e39dac33-f79a-46cf-919f-70d5c9a4de3e">
+
 Figure 2 compares the distribution of people with and without heart diseases for four different chest pain types. It suggests that individuals with typical angina are more likely to have heart disease.
 
 ### Figure 3: Resting Blood Pressure Comparison by Gender
 <img width="420" alt="Screenshot 2023-10-29 at 23 55 22" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/bbfb90b2-36cd-4af6-b05d-fada5837bbf4">
+
 Figure 3 illustrates the comparison of resting blood pressure between males and females, showing that males typically have lower resting blood pressure.
 
 ### Figure 4: Gender Comparison of Age and Max Heart Rate
 <img width="408" alt="Screenshot 2023-10-29 at 23 56 01" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/ec9b9de5-da11-4d7b-825c-b1c56db3e8d6">
+
 Figure 4 presents a comparison of age and the maximum heart rate achieved, categorized by gender.
 
 ### Figure 5: Gender Comparison of Cluster Index and Max Heart Rate
 <img width="1567" alt="Screenshot 2023-10-29 at 23 56 39" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/52bdcd6b-dcb3-4e5d-9f2d-1aaa3267ff91">
+
 Figure 5 illustrates a comparison of cluster index and the maximum heart rate achieved, categorized by gender.
 
 ## Conclusions
