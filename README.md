@@ -41,3 +41,9 @@ Figure 3 illustrates the comparison of resting blood pressure between males and 
 
 ## Acknowledgments
 Special thanks to Dr. Anat Caspi and Mr. Lawrence Tanimoto for their invaluable guidance and support throughout this research project. I also acknowledge the funding provided by the University of Washington.
+
+<img width="633" alt="Screenshot 2023-10-29 at 23 54 18" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/6a00796b-dd7b-47dd-9600-d01eff4109d4">
+<img width="425" alt="Screenshot 2023-10-29 at 23 54 59" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/e39dac33-f79a-46cf-919f-70d5c9a4de3e">
+<img width="420" alt="Screenshot 2023-10-29 at 23 55 22" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/bbfb90b2-36cd-4af6-b05d-fada5837bbf4">
+<img width="408" alt="Screenshot 2023-10-29 at 23 56 01" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/ec9b9de5-da11-4d7b-825c-b1c56db3e8d6">
+<img width="1567" alt="Screenshot 2023-10-29 at 23 56 39" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/52bdcd6b-dcb3-4e5d-9f2d-1aaa3267ff91">
