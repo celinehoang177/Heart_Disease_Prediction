@@ -19,7 +19,7 @@ In this research project, I employed various methods and materials to investigat
 
 ## Results
 ### Figure 1: Prediction of Cholesterol Levels by Age
-<img width="633" alt="Screenshot 2023-10-29 at 23 54 18" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/6a00796b-dd7b-47dd-9600-d01eff4109d4">
+<img width="633" alt="Screenshot 2023-10-29 at 23 54 18" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/1a04def7-155a-4ae1-bf5b-9616675cab34">
 
 Figure 1 displays the prediction of cholesterol levels in blood using age as a feature. It reveals a weak correlation between age and cholesterol levels, as evidenced by the model's relatively high error rate.
 
