@@ -1,7 +1,7 @@
 # Heart Diseases Prediction Using Machine Learning Research Project
 
 ## Background
-Heart diseases are widespread ailments affected by many factors. This project utilizes artificial intelligence and machine learning algorithms to diagnose heart diseases at an early stage. The dataset includes information from 303 participants, including their age, sex, serum cholesterol levels in mg/dL, chest pain type, resting blood pressure, and more.
+Heart diseases are widespread ailments affected by many factors. This project utilizes machine learning algorithms to diagnose heart diseases at an early stage. The dataset includes information from 303 participants, including their age, sex, serum cholesterol levels in mg/dL, chest pain type, resting blood pressure, and more.
 
 ## Research Questions
 ### Unsupervised Question:
