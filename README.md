@@ -1,7 +1,7 @@
-# Heart Diseases Diagnosis Using Machine Learning Research Project
+# Heart Diseases Prediction Using Machine Learning Research Project
 
 ## Background
-Heart diseases are widespread ailments affected by many factors. This project utilizes artificial intelligence and machine learning algorithms to diagnose heart diseases at an early stage. The dataset includes information from 303 participants, including their age, sex, serum cholesterol levels in mg/dL, chest pain type, resting blood pressure, and more.
+Heart diseases are widespread ailments affected by many factors. This project utilizes machine learning algorithms to diagnose heart diseases at an early stage. The dataset includes information from 303 participants, including their age, sex, serum cholesterol levels in mg/dL, chest pain type, resting blood pressure, and more.
 
 ## Research Questions
 ### Unsupervised Question:
@@ -19,27 +19,27 @@ In this research project, I employed various methods and materials to investigat
 
 ## Results
 ### Figure 1: Prediction of Cholesterol Levels by Age
-<img width="633" alt="Screenshot 2023-10-29 at 23 54 18" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/6a00796b-dd7b-47dd-9600-d01eff4109d4">
+<img width="633" alt="Screenshot 2023-10-29 at 23 54 18" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/1a04def7-155a-4ae1-bf5b-9616675cab34">
 
 Figure 1 displays the prediction of cholesterol levels in blood using age as a feature. It reveals a weak correlation between age and cholesterol levels, as evidenced by the model's relatively high error rate.
 
 ### Figure 2: Heart Disease Distribution by Chest Pain Types
-<img width="425" alt="Screenshot 2023-10-29 at 23 54 59" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/e39dac33-f79a-46cf-919f-70d5c9a4de3e">
+<img width="425" alt="Screenshot 2023-10-29 at 23 54 59" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/81cc5103-0698-4c7f-9f5d-e408805a4385">
 
 Figure 2 compares the distribution of people with and without heart diseases for four different chest pain types. It suggests that individuals with typical angina are more likely to have heart disease.
 
 ### Figure 3: Resting Blood Pressure Comparison by Gender
-<img width="420" alt="Screenshot 2023-10-29 at 23 55 22" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/bbfb90b2-36cd-4af6-b05d-fada5837bbf4">
+<img width="420" alt="Screenshot 2023-10-29 at 23 55 22" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/f547c073-b3cc-4227-bfa1-347cdfd86735">
 
 Figure 3 illustrates the comparison of resting blood pressure between males and females, showing that males typically have lower resting blood pressure.
 
 ### Figure 4: Gender Comparison of Age and Max Heart Rate
-<img width="408" alt="Screenshot 2023-10-29 at 23 56 01" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/ec9b9de5-da11-4d7b-825c-b1c56db3e8d6">
+<img width="408" alt="Screenshot 2023-10-29 at 23 56 01" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/15b886db-c605-414b-af5e-39303a8cdd25">
 
 Figure 4 presents a comparison of age and the maximum heart rate achieved, categorized by gender.
 
 ### Figure 5: Gender Comparison of Cluster Index and Max Heart Rate
-<img width="1567" alt="Screenshot 2023-10-29 at 23 56 39" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/52bdcd6b-dcb3-4e5d-9f2d-1aaa3267ff91">
+<img width="1567" alt="Screenshot 2023-10-29 at 23 56 39" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/f3472dc2-828f-480d-afe0-428af101c139">
 
 Figure 5 illustrates a comparison of cluster index and the maximum heart rate achieved, categorized by gender.
 
