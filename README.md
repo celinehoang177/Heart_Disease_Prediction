@@ -24,7 +24,7 @@ In this research project, I employed various methods and materials to investigat
 Figure 1 displays the prediction of cholesterol levels in blood using age as a feature. It reveals a weak correlation between age and cholesterol levels, as evidenced by the model's relatively high error rate.
 
 ### Figure 2: Heart Disease Distribution by Chest Pain Types
-<img width="425" alt="Screenshot 2023-10-29 at 23 54 59" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/e39dac33-f79a-46cf-919f-70d5c9a4de3e">
+<img width="425" alt="Screenshot 2023-10-29 at 23 54 59" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/81cc5103-0698-4c7f-9f5d-e408805a4385">
 
 Figure 2 compares the distribution of people with and without heart diseases for four different chest pain types. It suggests that individuals with typical angina are more likely to have heart disease.
 
