@@ -34,7 +34,7 @@ Figure 2 compares the distribution of people with and without heart diseases for
 Figure 3 illustrates the comparison of resting blood pressure between males and females, showing that males typically have lower resting blood pressure.
 
 ### Figure 4: Gender Comparison of Age and Max Heart Rate
-<img width="408" alt="Screenshot 2023-10-29 at 23 56 01" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/ec9b9de5-da11-4d7b-825c-b1c56db3e8d6">
+<img width="408" alt="Screenshot 2023-10-29 at 23 56 01" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/15b886db-c605-414b-af5e-39303a8cdd25">
 
 Figure 4 presents a comparison of age and the maximum heart rate achieved, categorized by gender.
 
