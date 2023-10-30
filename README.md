@@ -29,7 +29,7 @@ Figure 1 displays the prediction of cholesterol levels in blood using age as a f
 Figure 2 compares the distribution of people with and without heart diseases for four different chest pain types. It suggests that individuals with typical angina are more likely to have heart disease.
 
 ### Figure 3: Resting Blood Pressure Comparison by Gender
-<img width="420" alt="Screenshot 2023-10-29 at 23 55 22" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/bbfb90b2-36cd-4af6-b05d-fada5837bbf4">
+<img width="420" alt="Screenshot 2023-10-29 at 23 55 22" src="https://github.com/celinehoang177/Heart_Disease_Prediction/assets/68453624/f547c073-b3cc-4227-bfa1-347cdfd86735">
 
 Figure 3 illustrates the comparison of resting blood pressure between males and females, showing that males typically have lower resting blood pressure.
 
