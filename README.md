@@ -53,4 +53,4 @@ Figure 5 illustrates a comparison of cluster index and the maximum heart rate ac
 - The long-term goal is to predict heart disease at an even earlier stage and identify individuals at higher risk.
 
 ## Acknowledgments
-Special thanks to Dr. Anat Caspi and Mr. Lawrence Tanimoto for their invaluable guidance and support throughout this research project. I also acknowledge the funding provided by the University of Washington.
+Special thanks to Dr. Anat Caspi and Mr. Lawrence Tanimoto for their invaluable guidance and support throughout this research project. I also acknowledge the funding provided by the University of Washington, Seattle.
